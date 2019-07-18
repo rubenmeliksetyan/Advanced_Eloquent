@@ -12,4 +12,3 @@ class PostsTableSeeder extends Seeder
          TestDummy::times(50)->create('App\Post');
     }
 }
-a
